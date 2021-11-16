@@ -1,0 +1,6 @@
+# The keys for the Mongodb
+keys.ts
+keys.js
+# compiled output
+/dist
+/node_modules
